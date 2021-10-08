@@ -8,5 +8,3 @@ This code was submitted for the Abusive and threatening language classification 
 Link to competition : https://www.urduthreat2021.cicling.org/
 
 
-https://www.urduthreat2021.cicling.org/
-
